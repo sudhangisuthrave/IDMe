@@ -1,0 +1,114 @@
+{
+  "logs": [
+    {
+      "timestamp": "2024-02-18T11:58:20Z",
+      "event_type": "successful_login",
+      "source_ip": "45.134.200.10",
+      "username": "jsmith",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    },
+    {
+      "timestamp": "2024-02-18T11:59:05Z",
+      "event_type": "password_reset",
+      "source_ip": "45.134.200.10",
+      "username": "jsmith"
+    },
+    {
+      "timestamp": "2024-02-18T12:00:05Z",
+      "event_type": "failed_login",
+      "source_ip": "62.169.31.135",
+      "username": "jdoe",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    },
+    {
+      "timestamp": "2024-02-18T12:00:25Z",
+      "event_type": "failed_login",
+      "source_ip": "62.169.31.135",
+      "username": "jdoe"
+    },
+    {
+      "timestamp": "2024-02-18T12:01:10Z",
+      "event_type": "failed_login",
+      "source_ip": "62.169.31.135",
+      "username": "jdoe"
+    },
+    {
+      "timestamp": "2024-02-18T12:01:50Z",
+      "event_type": "mfa_challenge",
+      "source_ip": "161.97.105.195",
+      "username": "jdoe"
+    },
+    {
+      "timestamp": "2024-02-18T12:02:05Z",
+      "event_type": "failed_login",
+      "source_ip": "62.169.31.135",
+      "username": "jdoe"
+    },
+    {
+      "timestamp": "2024-02-18T12:02:35Z",
+      "event_type": "failed_login",
+      "source_ip": "62.169.31.135",
+      "username": "jdoe"
+    },
+    {
+      "timestamp": "2024-02-18T12:03:10Z",
+      "event_type": "account_lockout",
+      "source_ip": "62.169.31.135",
+      "username": "jdoe"
+    },
+    {
+      "timestamp": "2024-02-18T12:03:50Z",
+      "event_type": "failed_login",
+      "source_ip": "62.169.31.135",
+      "username": "jdoe"
+    },
+    {
+      "timestamp": "2024-02-18T12:04:10Z",
+      "event_type": "failed_login",
+      "source_ip": "62.169.31.135",
+      "username": "jdoe"
+    },
+    {
+      "timestamp": "2024-02-18T12:05:50Z",
+      "event_type": "failed_login",
+      "source_ip": "62.169.31.135",
+      "username": "jdoe"
+    },
+    {
+      "timestamp": "2024-02-18T12:06:15Z",
+      "event_type": "failed_login",
+      "source_ip": "161.97.105.195",
+      "username": "admin"
+    },
+    {
+      "timestamp": "2024-02-18T12:06:35Z",
+      "event_type": "failed_login",
+      "source_ip": "161.97.105.195",
+      "username": "admin"
+    },
+    {
+      "timestamp": "2024-02-18T12:07:10Z",
+      "event_type": "failed_login",
+      "source_ip": "161.97.105.195",
+      "username": "admin"
+    },
+    {
+      "timestamp": "2024-02-18T12:07:30Z",
+      "event_type": "failed_login",
+      "source_ip": "161.97.105.195",
+      "username": "admin"
+    },
+    {
+      "timestamp": "2024-02-18T12:08:00Z",
+      "event_type": "successful_login",
+      "source_ip": "161.97.105.195",
+      "username": "admin"
+    },
+    {
+      "timestamp": "2024-02-18T12:08:50Z",
+      "event_type": "successful_login",
+      "source_ip": "62.169.31.135",
+      "username": "jdoe"
+    }
+  ]
+}
